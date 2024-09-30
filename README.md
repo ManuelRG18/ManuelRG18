@@ -5,5 +5,6 @@
 - 📫 How to reach me: manuelrglod18@gmail.com
 
 
-[![ Manu GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelRG18)](https://github.com/ManuelRG18/github-readme-stats)
+<img alt="my stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ManuelRG18&show_icons=true&theme=dark"/>
 
+<img alt="my lenguages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRG18&layout=compact&theme=dark"/>
